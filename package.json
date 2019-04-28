@@ -1,0 +1,16 @@
+{
+  "name": "cms-react-template",
+  "version": "1.0.0",
+  "description": "server-side react rendering",
+  "main": "server.js",
+  "author": "Rafael Tessaroto <rafael.tessaroto@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "@babel/preset-react": "^7.0.0",
+    "@babel/register": "^7.4.4",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  }
+}
